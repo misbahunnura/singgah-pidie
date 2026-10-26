@@ -8,8 +8,8 @@ Website informasi kuliner dan budaya Kabupaten Pidie, dibangun dengan Laravel.
 
 ## Anggota Kelompok
 
-| No | Nama | NIM | Peran |
-|----|------|-----|-------|
+| No | Nama | NIM |
+|----|------|-----|
 | 1 | [Misbahun nura] | [24105111086] |
 | 2 | [Hayatun nufus] | [24105111070] |
 | 3 | [Nelly agustiani] | [24105111119] |
