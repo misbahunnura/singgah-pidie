@@ -1,3 +1,29 @@
+# Singgah Pidie
+
+Website informasi kuliner dan budaya Kabupaten Pidie, dibangun dengan Laravel.
+
+## Link Website
+
+🔗 http://singgah-pidie.free.je
+
+## Anggota Kelompok
+
+| No | Nama | NIM | Peran |
+|----|------|-----|-------|
+| 1 | [Misbahun nura] | [24105111086] |
+| 2 | [Hayatun nufus] | [24105111070] |
+| 3 | [Nelly agustiani] | [24105111119] |
+
+
+## Teknologi
+
+- Laravel (PHP)
+- MySQL
+- Hosting: InfinityFree
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
